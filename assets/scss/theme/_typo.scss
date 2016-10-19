@@ -1,0 +1,45 @@
+// Typo-Einstellungen
+// Schriften werden im Panel unter Einstellungen eingtragen
+body {
+    line-height:1.2;
+}
+h1,h2,h3,h4,h5{
+}
+
+//Fontgrössen
+
+body {
+  @include phone{
+    font-size: 16px;
+  }
+
+  @include tablet {
+    font-size: 18px;
+  }
+
+  @include desktop {
+    font-size: 20px;
+  }
+  
+  @include bigscreen {
+    font-size: 24px;
+  }
+}
+
+h1{
+    font-size: 200%;
+}
+h2{
+    font-size: 150%;
+}
+h3{
+    font-size: 120%;
+}
+h4{
+    font-style: bold;
+}
+h4{
+    font-style: italic;
+}
+
+

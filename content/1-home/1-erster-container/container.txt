@@ -1,0 +1,68 @@
+Info: 
+
+----
+
+Pagesettings: 
+
+----
+
+Title: erster Container
+
+----
+
+Showtitle: true
+
+----
+
+Subline: hier siehst Du, was ein Container alles so kann. In diesem Fall wird einfach nur ein Blindtext angezeigt.
+
+----
+
+Layout: zweiSpalten
+
+----
+
+Img: 20060610-lr.jpg
+
+----
+
+Bgimg: 
+
+----
+
+Showinnavi: false
+
+----
+
+Previewsettings: 
+
+----
+
+Prewshow: ohne
+
+----
+
+Prewvon: 2016-10-18
+
+----
+
+Prewbis: 
+
+----
+
+Prewimg: 
+
+----
+
+Prewstyle: card
+
+----
+
+Prewtext: 
+
+----
+
+Text: 
+
+#Überschrift
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.

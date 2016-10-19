@@ -1,0 +1,151 @@
+/*
+MRG
+
+Datum: 
+26.08.2015, 14.04.2016, 
+plainkit-mrg 18.10.2016
+
+*/
+
+
+.container{
+  // Hauptsegmente z.B. bei der Longpage
+  // ein div oberhalb article, damit der Hintergrund über die ganze Breite gehen kann
+  background-size: cover;
+    
+  article{
+    @include phone {
+      width: $con_breite_phone;
+    }
+
+    @include tablet {
+      width: $con_breite_tablet;
+    }
+
+    @include desktop {
+      width: $con_breite_desktop;
+    }
+
+    @include bigscreen {
+      width: $con_breite_desktop;
+    }
+    
+    max-width: $con_breite_max;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: stretch;
+
+    header{
+      flex: 1 0 300px;
+      @include abst_padding;
+      
+      img{
+        margin-top: $abst_o;
+      }
+    }
+    
+    .content{
+      flex: 2 0 300px;
+      @include abst_padding;
+    }
+  }
+  
+//  &.hero{
+//    height: 90vh;
+//    
+//    article{
+//      flex-direction: column;
+//      align-items: center;
+//      justify-content: center;
+//      text-align: center;
+//    }
+//  }
+//  
+//    
+  &.eineSpalte{
+    article{
+      > header{
+      flex-basis: 100%;
+      text-align: center;
+    }
+
+    .bildlinks{
+      flex: 1 1 33%;
+    }
+
+    .content{
+      flex: 1 2 66%;
+    }
+    }
+  }
+//  
+//  &.zweiSpalten{
+//    article{
+//    > header{
+//      flex: 1 1 33%;
+//      min-width: 280px;
+//
+//      text-align: left;
+//      overflow: hidden;
+//
+//      padding-right: $abstand_s;
+//
+//      @include phone(){
+//        text-align: center;
+//      }
+//      @include tablet(){
+//        text-align: center;
+//      }
+//
+//
+//      figure {
+//        text-align: left;
+//        padding-top: $abstand_o;
+//
+//        img {
+//          width: 100%;
+//          height: 100%;
+//          border-radius: $rahmenradius;
+//        }
+//      }
+//  }
+//
+//    > .body{
+//      flex: 2 1 66%;
+//      padding-left: $abstand_s;
+//      text-align: left;
+//      overflow: hidden;
+//    }
+//  }
+//
+//  }
+  }
+
+//  // Elemente können immer mit Flexbox nebeneinander oder in voller  Breite angezeigt werden (wird im Element/Backend festgelegt)
+//
+//  .body{
+//    min-width: 250px;
+//    display: flex;
+//    flex-direction: row;
+//    flex-wrap: wrap;
+//    justify-content: center;
+//    align-content: flex-start;
+//
+//    .split{
+//      flex: 1 1 150px;
+//    }
+//
+//    .full{
+//      flex: 0 0 100%;
+//    }
+//  }
+//
+//  section{
+//    min-width: 250px;
+//    +section{
+//      margin-top: $abstand_u;
+//    }
+//  }
