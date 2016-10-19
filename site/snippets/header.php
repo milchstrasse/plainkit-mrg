@@ -5,11 +5,9 @@
   <meta charset="utf-8" />
   <?php echo $site->fonts() ?>
   <?php echo $site->icons() ?>
-  <style>
-    body{font-family: <?php echo $site->ffp() ?> color: <?php echo $site->color_p() ?>}
-    h1,h2,h3,h4,h5{font-family: <?php echo $site->ffh() ?> color: <?php echo $site->color_h() ?> }
-    .accent{color: <?php echo $site->coloracc() ?>}
-  </style>
+  
+  <?php snippet("head_styles") ?>
+
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
 
   <title><?php echo $site->title()->html() ?> | <?php echo $page->title()->html() ?></title>
@@ -19,4 +17,4 @@
   <?php echo css('assets/css/default.css', 'screen') ?>
 
 </head>
-<body>
+<body id="top">

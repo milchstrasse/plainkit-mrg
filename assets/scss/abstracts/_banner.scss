@@ -1,0 +1,98 @@
+/* Abstraktion: 
+ganzes Banner oben, inkl. Navigation
+Hier nur die FFunktion, das Aussehen wird unter theme/banner gestylt
+Menu als Navigationsarea; kann mittels JS aus- und eingeblendet werden
+
+19.10.2016 MRG Layout und Funktion getrennt
+17.03.2016 MRG
+21.08.2015 MRG
+
+*/
+.menu-toggle{
+  cursor: pointer;
+}
+
+header[role=banner]{
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    
+//    background-color: rgba(0,0,0,0.5);
+//    border-bottom: 1px solid $farbe_rahmen;
+//    @include single-box-shadow(0, 0, 50px, 0, $weiss-layer);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    align-content: center;
+    justify-content: space-between;
+
+    // alle Boxen gleich breit
+    div{
+        align-items: center;
+        text-align: center;
+        flex: 1 0 300px;
+    }
+  .banlogo{
+    flex-shrink: 1;
+  }
+    a{
+        text-decoration: none
+    }
+  
+  // drei Icons (Menu, Tel und Mail)
+  .exposed{
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    div{
+      flex: 1 1 auto;
+    }
+  }
+}
+
+.navarea{
+//  display: none;
+}
+    
+//  nav{
+//  display: none;
+//
+//  a:hover{
+//    text-decoration: none;
+//  }
+//  
+//  ul{
+//    @include display-flex();
+//    @include flex-wrap(wrap);
+//    @include align-content(stretch);
+//    @include align-items(stretch);
+//    @include justify-content(center);
+//    
+//    padding: $abstand_u * 2 0 $abstand_u * 2 0;
+//  }
+//  li{
+//    @include flex-basis($basis-menu-item);
+//    text-align: left;
+//    
+//    padding: 0;
+//    margin: 0 $abstand_s;
+//    border-bottom: $rahmenbreite $rahmenstil $akzentfarbe;
+//    display: block;
+//    
+//    ul{
+//        padding: $abstand_o * 0.5 $abstand_s * 0.5; 
+//      }
+//
+//    li{
+//        border-bottom: none;
+//        padding: $abstand_o * 0.3 $abstand_s * 0.3;
+//        margin: 0 $abstand_s;
+//      }
+//    
+//
+//  }     
+//}  
+
+.wrapper{
+//  margin-top: 80px;
+}

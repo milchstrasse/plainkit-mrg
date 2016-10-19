@@ -14,11 +14,11 @@ Keywords:
 
 ----
 
-Phone: 
+Phone: +41 61 599 78 53
 
 ----
 
-Mail: 
+Mail: marcrenegeiser@gmail.com
 
 ----
 
@@ -38,7 +38,7 @@ Ffp: 'Open Sans', sans-serif;
 
 ----
 
-Copyright: 
+Copyright: mrg
 
 ----
 
