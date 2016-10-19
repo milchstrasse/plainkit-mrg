@@ -1,0 +1,54 @@
+//https://davidwalsh.name/write-media-queries-sass
+
+/*
+
+Now, we can rewrite our example above to use these new mixins.
+
+p {
+  @include phone {
+    font-size: 18px;
+  }
+
+  @include tablet {
+    font-size: 18px;
+  }
+
+  @include desktop {
+    font-size: 20px;
+  }
+  
+  @include bigscreen {
+    font-size: 18px;
+  }
+}
+
+*/
+
+$phone-width: 1px;
+$tablet-width: 768px;
+$desktop-width: 1024px;
+$bigscreen-width: 1400px;
+
+  
+@mixin phone {
+  @media (min-width: #{$phone-width}) and (max-width: #{$tablet-width - 1px}) {
+    @content;
+  }
+}
+
+@mixin tablet {
+  @media (min-width: #{$tablet-width}) and (max-width: #{$desktop-width - 1px}) {
+    @content;
+  }
+}
+@mixin desktop {
+  @media (min-width: #{$desktop-width}) and (max-width: #{$bigscreen-width - 1px}) {
+    @content;
+  }
+}
+
+@mixin bigscreen {
+  @media (min-width: #{$bigscreen-width}) {
+    @content;
+  }
+}

@@ -1,0 +1,25 @@
+Title: Home
+
+----
+
+Text: Lorem Ipsum
+
+----
+
+Showtitle: true
+
+----
+
+Subnavi: true
+
+----
+
+Imagetoggle: yes
+
+----
+
+Bgimage: mrg-1180377.jpg
+
+----
+
+Bgimg: mrg-1180377.jpg

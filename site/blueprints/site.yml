@@ -1,0 +1,85 @@
+<?php if(!defined('KIRBY')) exit ?>
+
+title: Site
+pages:
+  template:
+    - longpage
+fields:
+  title:
+    label: Title
+    type:  text
+  impressum:
+    label: Impressum
+    type: headline
+  author:
+    label: verantwortlich für den Inhalt
+    type:  user
+  description:
+    label: Description
+    type:  textarea
+  keywords:
+    label: Keywords
+    type:  tags
+  phone:
+    label: Telefon
+    type: tel
+    width: 1/2
+  mail:
+    label: eMail
+    type: email
+    width: 1/2
+  address:
+    label: Adresse
+    type: textarea
+    width: 1/2
+  pageSettings:
+    label: Seiteneinstellungen
+    type: headline
+  colormain:
+    label: Hauptfarbe
+    type:  color
+    default: 095af0
+    width: 1/5
+  coloracc:
+    label: Akzent
+    type:  color
+    default: 095af0
+    width: 1/5
+  color_p:
+    label: Schrift
+    type:  color
+    default: 095af0
+    width: 1/5
+  color_h:
+    label: Überschrift
+    type:  color
+    default: 095af0
+    width: 1/5
+  color_a:
+    label: Links
+    type:  color
+    default: 095af0
+    width: 1/5
+    
+  ffh:
+    label: Font-Family für Überschriften
+    type: text
+    width: 1/2
+  ffp:
+    label: Font-Family für Fliesstext
+    type: text
+    width: 1/2
+  fonts:
+    label: Link für Webfonts (z.B. Google Fonts)
+    type: text
+    width: 1/1
+  icons:
+    label: Link für WebIcons (z.B. font-awesome)
+    type: text
+    width: 1/1
+  webdesign:
+    label: Copyright by
+    type: headline
+  copyright:
+    label: Designer
+    type:  textarea

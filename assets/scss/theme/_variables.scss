@@ -1,0 +1,33 @@
+/* MRG
+
+Variablen werden in abstracts/* verwendet
+
+18.10.2016 plainkit-mrg
+
+*/
+
+//    Farben
+
+
+//    Layout allgemein
+$lay_textarea_maxbreite: 25em;
+
+  // Abstände
+  $abst_o: 1em;
+  $abst_r: 1em;
+  $abst_u: 1em;
+  $abst_l: 1em;
+
+@mixin abst_padding {
+  padding: $abst_o $abst_r $abst_u $abst_l;
+}
+
+//    container
+
+$con_breite_phone: 100%;
+$con_breite_tablet: 90%;
+$con_breite_desktop: 80%;
+$con_breite_max: 1300px;
+
+$con_breite_header: 40%;  // Breite des Headers
+$con_breite_content: 100% - $con_breite_header;  // Breite des Contents

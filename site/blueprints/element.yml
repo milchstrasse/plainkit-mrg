@@ -1,0 +1,29 @@
+<?php if(!defined('KIRBY')) exit ?>
+
+title: Element
+icon: filo-o
+pages: false
+files: true
+  fields:
+    alt:
+      label: Alternativtext
+      type: text
+      help: wird angezeigt, wenn das Bild nicht geladen wird
+    caption:
+      label: Beschreibung
+      type: textarea
+    
+
+fields:
+  info:
+    label: Element in Container
+    type:  info
+    text: >
+      Elemente werden innerhalb eines Containers angezeigt
+  pageSettings:
+    label: Einstellungen für dieses Element
+    type: headline 
+  title:
+    label: Title
+    type:  text
+    width: 1/2

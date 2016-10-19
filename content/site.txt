@@ -1,1 +1,65 @@
-Title: Site Title
+Title: plainkit-mrg
+
+----
+
+Author: marc
+
+----
+
+Description: 
+
+----
+
+Keywords: 
+
+----
+
+Phone: 
+
+----
+
+Mail: 
+
+----
+
+Address: 
+
+----
+
+Fonts: <link href="https://fonts.googleapis.com/css?family=Open+Sans:300|Ubuntu:300" rel="stylesheet">
+
+----
+
+Ffh: 'Ubuntu', sans-serif;
+
+----
+
+Ffp: 'Open Sans', sans-serif;
+
+----
+
+Copyright: 
+
+----
+
+Icons: <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+----
+
+Colormain: #3deb5d
+
+----
+
+Coloracc: #f03208
+
+----
+
+Color-p: #474747
+
+----
+
+Color-h: #6c8a70
+
+----
+
+Color-a: #26704f
