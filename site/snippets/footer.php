@@ -1,12 +1,9 @@
 <footer class="footer cf" role="contentinfo">
-  <div class="copyright">
-    <?php echo $site->copyright()->kirbytext() ?>
-  </div>
-
-  <div class="colophon">
+    <div class="colophon"> 
     <p>
-      <a href="http://getkirby.com/made-with-kirby-and-love">Made with <b>♥</b> and Kirby </a>
+      <a href="http://getkirby.com/made-with-kirby-and-love">made with <b>♥</b> and kirby </a>
     </p>
+    <p>copyright by mrg</p>
   </div>
 </footer>
 <a href="#top" class="to-top" style="display: block;">nach oben &uarr;
