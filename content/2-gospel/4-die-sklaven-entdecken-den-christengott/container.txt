@@ -1,0 +1,65 @@
+Info: 
+
+----
+
+Pagesettings: 
+
+----
+
+Title: Die Sklaven entdecken den Christengott
+
+----
+
+Showtitle: true
+
+----
+
+Showinnavi: false
+
+----
+
+Layout: zweiSpalten
+
+----
+
+Img: 
+
+----
+
+Bgimg: 
+
+----
+
+Subline: 
+
+----
+
+Text: Ein Ersatz für verlorene Werte war für viele Sklaven erstaunlicherweise das Christentum. Erstaunlich deshalb, da sich jeder Sklave bei der Begegnung mit der christlichen Heilslehre eigentlich nur noch fragen konnte, wie es die Weißen schafften, sich zur Nächstenliebe zu bekennen und zugleich Sklaven zu halten. Gegen Ende des 18. Jahrhunderts nahmen immer mehr Sklaven den christlichen Glauben an. In ihren eigenen Kirchen bildeten sie wieder Gemeinschaften und konnten eine Religion ausüben so, wie es ihre Vorväter getan hatten: mit Musik und Ekstase.
+
+----
+
+Previewsettings: 
+
+----
+
+Prewshow: ohne
+
+----
+
+Prewvon: 2016-10-19
+
+----
+
+Prewbis: 
+
+----
+
+Prewstyle: card
+
+----
+
+Prewimg: 
+
+----
+
+Prewtext: 

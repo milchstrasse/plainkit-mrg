@@ -3,14 +3,14 @@
 title: Longpage
 pages:
   template:
-    - con_plaintext
+#    - con_plaintext
     - container
-    - con_overview
-    - con_fotos
-    - con_event
-    - con_contact
-    - con_custom
-    - aside
+#    - con_overview
+#    - con_fotos
+#    - con_event
+#    - con_contact
+#    - con_custom
+#    - aside
 files: true
 fields:
   info:

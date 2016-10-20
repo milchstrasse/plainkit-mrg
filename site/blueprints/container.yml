@@ -41,12 +41,13 @@ fields:
     type: toggle
     text: yes/no
     width: 1/4
+    default: true
   showinnavi:
     label: in Menu anzeigen?
     type: toggle
     text: yes/no
     width: 1/4
-    default: true
+    default: false
   layout:
     label: Layout
     type: select
@@ -55,6 +56,7 @@ fields:
       eineSpalte: Titel oben
       zweiSpalten: Titel links
       hero: Bildschirmfüllend ("Hero")
+    default: zweiSpalten
     width: 1/4
   img:
     label: Bild links
@@ -84,7 +86,7 @@ fields:
   prewshow:
     label: Vorschau
     type: fieldtoggle
-    default: hide
+    default: ohne
     options:
       mit: in Vorschau anzeigen
       ohne: nicht in Vorschau anzeigen

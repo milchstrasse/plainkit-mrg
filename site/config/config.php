@@ -21,6 +21,8 @@ c::set('scssNestedCheck', true);
 
 c::set('debug', true);
 
+c::set('panel.install', true);
+
 /*
 
 ---------------------------------------

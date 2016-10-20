@@ -2,7 +2,7 @@
   <?php if($container->showtitle()): ?>
     <h1 class="accent"><?= $container->title() ?></h1>
     <?php if($container->subline()->isNotEmpty()): ?>
-      <p class="subline"><?= $container->subline() ?></p>
+      <p class="subline"><?= $container->subline()->kirbytext() ?></p>
     <?php endif ?>
   <?php endif ?>
   

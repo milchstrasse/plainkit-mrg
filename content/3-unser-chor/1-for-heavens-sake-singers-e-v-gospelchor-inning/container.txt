@@ -1,0 +1,73 @@
+Info: 
+
+----
+
+Pagesettings: 
+
+----
+
+Title: For Heaven´s Sake Singers e.V. - Gospelchor Inning
+
+----
+
+Showtitle: true
+
+----
+
+Showinnavi: false
+
+----
+
+Layout: zweiSpalten
+
+----
+
+Img: 
+
+----
+
+Bgimg: 
+
+----
+
+Subline: **Wir treffen uns zur Chorprobe jeden Dienstag, 19.45 Uhr in der Nachbarschaftshilfe, Enzenhofer Weg 9, 82266 Inning am Ammersee.**
+
+----
+
+Text: 
+
+Unser Name sagt aus, dass wir den Himmel singend loben. Offen für alle Konfessionen, singen wir Gospels, moderne Kirchenlieder und alles was uns Spaß macht. 
+Wir gestalten Jugend- und Familiengottesdienste und singen bei kirchlichen Festen, Hochzeiten, egal welcher Konfession, auch außerhalb der Kirche.
+Neben unseren kirchlichen Ambitionen stellen wir im Zweijahresrhythmus Konzerte in Eigenregie zusammen, die meistens ein Thema beinhalten, das wir musikalisch gestalten.
+Die Spenden aus diesen Veranstaltungen werden zur Bezahlung unserer Musiker und für unser technisches Equipment verwendet.
+2016 haben wir einen zweiten Dirigenten gefunden, der unsere musikalische Leiterin entlastet.
+Wer Lust hat zu singen, ob mit oder ohne Notenkenntnisse, ist bei uns gerne gesehen und willkommen!
+(image: chor-fuer-collage2_opt.jpg width: 100% height: auto)
+
+----
+
+Previewsettings: 
+
+----
+
+Prewshow: ohne
+
+----
+
+Prewvon: 2016-10-19
+
+----
+
+Prewbis: 
+
+----
+
+Prewstyle: card
+
+----
+
+Prewimg: 
+
+----
+
+Prewtext: 

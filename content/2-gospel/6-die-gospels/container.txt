@@ -1,0 +1,65 @@
+Info: 
+
+----
+
+Pagesettings: 
+
+----
+
+Title: Die Gospels
+
+----
+
+Showtitle: true
+
+----
+
+Showinnavi: false
+
+----
+
+Layout: zweiSpalten
+
+----
+
+Img: 
+
+----
+
+Bgimg: 
+
+----
+
+Subline: 
+
+----
+
+Text: Die Schallplattenindustrie hatte keine Probleme mit der Kombination von weltlicher und geistlicher Musik. Schon 1903 erschienen die ersten Spiritual-Platten. In den 20er und 30er Jahren erwiesen sich die Gesänge der farbigen Prediger im Call-and-Response-Schema, als echter Renner. "Guitar Evangelists", Straßenmusikanten sangen rhythmisierte Blueslieder mit geistlichen Texten. Auf sie wird die Umbenennung der ehemaligen Negro-Spirituals in Gospels (engl. Evangelium) zurückgeführt. Immer häufiger wurden die Gospels gezielt auskomponiert. Deswegen bestehen Gospels und Spirituals bis heute nebeneinander.
+
+----
+
+Previewsettings: 
+
+----
+
+Prewshow: ohne
+
+----
+
+Prewvon: 2016-10-19
+
+----
+
+Prewbis: 
+
+----
+
+Prewstyle: card
+
+----
+
+Prewimg: 
+
+----
+
+Prewtext: 

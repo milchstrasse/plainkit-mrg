@@ -1,0 +1,65 @@
+Info: 
+
+----
+
+Pagesettings: 
+
+----
+
+Title: Bild vom Chor
+
+----
+
+Showtitle: false
+
+----
+
+Showinnavi: false
+
+----
+
+Layout: eineSpalte
+
+----
+
+Img: 
+
+----
+
+Bgimg: chor-fuer-collage2_opt.jpg
+
+----
+
+Subline: 
+
+----
+
+Text: 
+
+----
+
+Previewsettings: 
+
+----
+
+Prewshow: ohne
+
+----
+
+Prewvon: 2016-10-19
+
+----
+
+Prewbis: 
+
+----
+
+Prewstyle: card
+
+----
+
+Prewimg: 
+
+----
+
+Prewtext: 

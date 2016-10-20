@@ -1,0 +1,21 @@
+Info: 
+
+----
+
+Title: Gospel
+
+----
+
+Showtitle: false
+
+----
+
+Subnavi: false
+
+----
+
+Imagetoggle: yes
+
+----
+
+Bgimg: ammersee_mrg.jpg

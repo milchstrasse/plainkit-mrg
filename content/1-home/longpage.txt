@@ -1,4 +1,4 @@
-Title: Home
+Title: Startseite
 
 ----
 
@@ -22,4 +22,4 @@ Bgimage: mrg-1180377.jpg
 
 ----
 
-Bgimg: beispeilbild1.jpg
+Bgimg: 

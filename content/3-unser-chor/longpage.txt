@@ -1,0 +1,21 @@
+Info: 
+
+----
+
+Title: unser Chor
+
+----
+
+Showtitle: true
+
+----
+
+Subnavi: true
+
+----
+
+Imagetoggle: no
+
+----
+
+Bgimg: 

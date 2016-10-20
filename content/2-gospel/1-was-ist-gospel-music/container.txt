@@ -1,0 +1,68 @@
+Info: 
+
+----
+
+Pagesettings: 
+
+----
+
+Title: Was ist Gospel-Music? Was sind Spirituals?
+
+----
+
+Showtitle: true
+
+----
+
+Showinnavi: true
+
+----
+
+Layout: zweiSpalten
+
+----
+
+Img: 
+
+----
+
+Bgimg: 
+
+----
+
+Subline: 
+
+----
+
+Text: 
+
+"Gospel" ist das englische Wort für "Evangelium", "Spiritual" das englische Wort für "geistig, geistlich, geistvoll". Gospels entwickelten sich aus den Negro-Spirituals. In den 30er Jahren führte das letztlich zur Kommerzialisierung einer Musik, die einst Tausenden von Sklaven half, in unmenschlicher Gefangenschaft ihre Individualität zu bewahren.
+(image: chor-fuer-collage2_opt.jpg)
+
+----
+
+Previewsettings: 
+
+----
+
+Prewshow: ohne
+
+----
+
+Prewvon: 2016-10-19
+
+----
+
+Prewbis: 
+
+----
+
+Prewstyle: card
+
+----
+
+Prewimg: 
+
+----
+
+Prewtext: 

@@ -1,0 +1,65 @@
+Info: 
+
+----
+
+Pagesettings: 
+
+----
+
+Title: Ruf und Antwort - die Worksongs
+
+----
+
+Showtitle: true
+
+----
+
+Showinnavi: false
+
+----
+
+Layout: zweiSpalten
+
+----
+
+Img: 
+
+----
+
+Bgimg: 
+
+----
+
+Subline: 
+
+----
+
+Text: Überlebt haben Worksongs, Lieder, die zur Arbeit auf den Feldern und an Bord von Schiffen gesungen wurden. Durch den ständigen Wechsel zwischen Vorsänger und Chor, zwischen "Call" und "Response" entstanden Stegreif-Lieder, die ihre afrikanischen Wurzeln nicht verleugnen konnten. Sie lösten sie sich von ihrer unmittelbaren Arbeitsfunktion und gingen in das musikalische Alltagsrepertoire der Sklaven ein. Damit sind sie rudimentäre Überreste des alten afrikanischen Brauchtums.
+
+----
+
+Previewsettings: 
+
+----
+
+Prewshow: ohne
+
+----
+
+Prewvon: 2016-10-19
+
+----
+
+Prewbis: 
+
+----
+
+Prewstyle: card
+
+----
+
+Prewimg: 
+
+----
+
+Prewtext: 

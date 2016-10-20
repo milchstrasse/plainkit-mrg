@@ -1,0 +1,65 @@
+Info: 
+
+----
+
+Pagesettings: 
+
+----
+
+Title: Afrikanische Musik
+
+----
+
+Showtitle: true
+
+----
+
+Showinnavi: false
+
+----
+
+Layout: zweiSpalten
+
+----
+
+Img: 
+
+----
+
+Bgimg: 
+
+----
+
+Subline: 
+
+----
+
+Text: Auf den Plantagen waren Trommeln verboten, man hätte damit Botschaften verschicken können. Ihre Musik, durften die Afrikaner allerdings ausüben. So konnten sie wenigstens einige ihrer alten Traditionen bewahren. Die Instrumente, die ihnen dazu fehlten, bauten sie sich selbst.
+
+----
+
+Previewsettings: 
+
+----
+
+Prewshow: ohne
+
+----
+
+Prewvon: 2016-10-19
+
+----
+
+Prewbis: 
+
+----
+
+Prewstyle: card
+
+----
+
+Prewimg: 
+
+----
+
+Prewtext: 
