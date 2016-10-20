@@ -6,7 +6,7 @@ Text: Lorem Ipsum
 
 ----
 
-Showtitle: true
+Showtitle: false
 
 ----
 
@@ -22,4 +22,4 @@ Bgimage: mrg-1180377.jpg
 
 ----
 
-Bgimg: mrg-1180377.jpg
+Bgimg: beispeilbild1.jpg

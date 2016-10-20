@@ -1,4 +1,5 @@
 <?php snippet('header'); ?>
+<?php snippet('banner') ?>
 
 <!-- Falls ein Hintergrundild hinterlegt ist, hier jetzt das Bild als eigenes div einbauen
 -->

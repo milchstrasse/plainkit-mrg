@@ -1,0 +1,47 @@
+/* Abstraktion: 
+ganzes Banner oben, inkl. Navigation
+Hier nur die Funktion, das Aussehen wird unter theme/banner gestylt
+Menu als Navigationsarea; kann mittels JS aus- und eingeblendet werden
+
+19.10.2016 MRG Layout und Funktion getrennt
+17.03.2016 MRG
+21.08.2015 MRG
+
+*/
+.menu-toggle{
+  cursor: pointer;
+}
+
+header[role=banner]{
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    align-content: center;
+    justify-content: space-between;
+
+    // alle Boxen gleich breit
+    div{
+        align-items: center;
+        text-align: center;
+        flex: 1 0 300px;
+    }
+  .banlogo{
+    flex-shrink: 1;
+  }
+    a{
+        text-decoration: none
+    }
+  
+  // drei Icons (Menu, Tel und Mail)
+  .exposed{
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    div{
+      flex: 1 1 auto;
+    }
+  }
+}

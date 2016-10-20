@@ -7,10 +7,18 @@
 @import "theme/variables";
 
 @import "abstracts/layout";
+
+@import "abstracts/banner";
+@import "abstracts/navarea";
+
+@import "abstracts/footer";
+
+
 @import "abstracts/container";
 
 @import "theme/typo";
 @import "theme/layout";
+@import "theme/banner";
 
 //@import "abstracts/dev";  // Regeln zum Entwickeln
 
