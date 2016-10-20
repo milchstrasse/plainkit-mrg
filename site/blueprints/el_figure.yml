@@ -1,7 +1,7 @@
 <?php if(!defined('KIRBY')) exit ?>
 
-title: Element
-icon: filo-o
+title: einzelnes Bild
+icon: picture-o
 pages: false
 files: true
   fields:
@@ -12,7 +12,6 @@ files: true
     caption:
       label: Beschreibung
       type: textarea
-    
 
 fields:
   info:
@@ -27,3 +26,16 @@ fields:
     label: Title
     type:  text
     width: 1/2
+  showtitle:
+    label: Titel anzeigen?
+    type: toggle
+    text: yes/no
+    width: 1/2
+  position:
+    label: Anzeigebereich wählen
+    type: radio
+    default: content
+    options:
+      header: im Titel (links)
+      content: im Textbereich (rechts)
+      newarea: neuer Bereich unterhalb
