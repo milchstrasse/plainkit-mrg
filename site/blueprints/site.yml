@@ -35,8 +35,11 @@ fields:
   pageSettings:
     label: Seiteneinstellungen
     type: headline
-  colormain:
-    label: Hauptfarbe
+  bgimg:
+    label: Hintergrundbild
+    type: image
+  color_bg:
+    label: Hintergrundfarbe
     type:  color
     default: 095af0
     width: 1/5

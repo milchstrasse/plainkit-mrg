@@ -31,6 +31,7 @@ fields:
     type: toggle
     text: yes/no
     width: 1/2
+    default: no
   position:
     label: Anzeigebereich wählen
     type: radio

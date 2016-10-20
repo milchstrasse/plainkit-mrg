@@ -6,8 +6,6 @@
   <?php echo $site->fonts() ?>
   <?php echo $site->icons() ?>
   
-  <?php snippet("head_styles") ?>
-
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
 
   <title><?php echo $site->title()->html() ?> | <?php echo $page->title()->html() ?></title>
@@ -15,6 +13,6 @@
   <meta name="keywords" content="<?php echo $site->keywords()->html() ?>">
     
   <?php echo css('assets/css/default.css', 'screen') ?>
-
+  <?php snippet("head_styles") ?>
 </head>
 <body id="top">

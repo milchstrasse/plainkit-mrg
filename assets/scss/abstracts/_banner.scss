@@ -21,6 +21,10 @@ header[role=banner]{
     align-items: stretch;
     align-content: center;
     justify-content: space-between;
+  
+  &:hover .areas{
+    display: block;
+  }
 
     // alle Boxen gleich breit
     div{

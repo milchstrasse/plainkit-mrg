@@ -1,11 +1,17 @@
 <?php snippet('header'); ?>
-<?php snippet('banner') ?>
 
-<!-- Falls ein Hintergrundild hinterlegt ist, hier jetzt das Bild als eigenes div einbauen
+<!-- Falls ein Hintergrundild hinterlegt ist, hier jetzt das Bild als eigenes div einbauen. Hintergrundbilder können bei Einstellungen oder einzeln bei jeder Longpage gemacht werden
 -->
-<?php if($page->imagetoggle()->isTrue() and $image = $page->image($page->bgimg())): ?>
+<?php $image = $site->image($site->bgimg()) ?>
+
+<?php if(!empty($image)): ?>
   <div class="lphero" style="background-image: url(<?=$image->url() ?>)"></div>
 <?php endif ?>
+
+<?php snippet('banner') ?>
+
+
+
 
 <div class='wrapper'> 
   <main id='main' class='longpage'>
