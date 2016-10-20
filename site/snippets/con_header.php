@@ -14,4 +14,7 @@
       </figure>
     </div>
   <?php endif ?>
+  
+  <?php snippet('elemente', array('container' => $container, 'position' => 'header')); ?>
+  
 </header>

@@ -9,7 +9,7 @@
     
     <?php snippet('con_header', array('container' => $container)); ?>
     <?php snippet('con_content', array('container' => $container)); ?>
-    
+    <?php snippet('elemente', array('container' => $container, 'position' => 'newarea')); ?>
   </article>
 </div><!--Ende Container "<?php echo $container->title() ?>" -->
 

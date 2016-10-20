@@ -4,7 +4,7 @@ title: Container
 icon: folder-o
 pages: true
   template:
-    element
+    el_figure
 #    - el_button
 #    - el_card
 #    - el_text
@@ -40,8 +40,7 @@ fields:
     label: Titel anzeigen?
     type: toggle
     text: yes/no
-    width: 1/4
-    default: true
+    width: 1/2
   showinnavi:
     label: in Menu anzeigen?
     type: toggle
