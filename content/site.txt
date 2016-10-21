@@ -1,4 +1,4 @@
-Title: Gospelchor Inning
+Title: Plainkit MRG
 
 ----
 
@@ -14,15 +14,18 @@ Keywords:
 
 ----
 
-Phone: 
+Phone: +41 78 625 96 35
 
 ----
 
-Mail: 
+Mail: marcrenegeiser@gmail.com
 
 ----
 
 Address: 
+
+Hinterkirchweg 3
+4106 Therwil
 
 ----
 
@@ -46,11 +49,7 @@ Icons: <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome
 
 ----
 
-Colormain: #3deb5d
-
-----
-
-Coloracc: #f03208
+Coloracc: #6ddb1f
 
 ----
 
@@ -63,3 +62,11 @@ Color-h: #6c8a70
 ----
 
 Color-a: #26704f
+
+----
+
+Bgimg: 
+
+----
+
+Color-bg: #404040
