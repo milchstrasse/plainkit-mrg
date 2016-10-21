@@ -1,0 +1,43 @@
+// ---------------------------------------------------- Header
+header[role=banner]{
+  border-bottom: 1px solid black;
+  @include abst_padding;
+  background-color: rgba(255,255,255, 0.8);
+  
+  .bannavi{
+    font-size: 80%;
+  }
+  &:hover{
+    background-color: rgba(255,255,255, 1);
+  }
+  
+  li{
+    @include abst_padding;
+    display: inline-block;
+    
+    &:hover{
+      text-decoration: underline;
+    }
+    
+     li a{
+      font-size: 75%;
+      padding: 0;
+    }
+  }
+}
+
+.banpageinfo span{
+  margin-left: $abst_l;
+}
+
+
+// ---------------------------------------------------- Main
+article{
+  background-color: white;
+  
+  header{
+    p{
+      font-size: 80%;
+    }
+  }
+}
