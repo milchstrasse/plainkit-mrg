@@ -1,6 +1,9 @@
 // marcrenegeiser
 // default scss
 
+//@import "themes/brut/variables";
+@import "themes/velove/variables";
+
 @import "abstracts/reset";
 @import "abstracts/mediaqueries";
 
@@ -16,9 +19,12 @@
 
 @import "abstracts/container";
 
-@import "theme/typo";
-@import "theme/layout";
-@import "theme/banner";
+// Themes laden
+
+//@import "themes/brut/base";
+@import "themes/velove/base";
+
+
 
 //@import "abstracts/dev";  // Regeln zum Entwickeln
 

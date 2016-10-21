@@ -1,0 +1,17 @@
+Info: 
+
+----
+
+Pagesettings: 
+
+----
+
+Title: Jewellery
+
+----
+
+Showtitle: true
+
+----
+
+Position: header
